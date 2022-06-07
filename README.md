@@ -18,3 +18,5 @@
 [Reading 13: Local Storage](Class13.md)  
 [Reading 14: CSS Transforms, Transitions, and Animations](Class14.md)   
 [Reading 15: What Google Learned About Team](Class15.md)  
+
+&copy; https://armyvet-whq2016.github.io/Code-201-Reading-Notes/
