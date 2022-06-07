@@ -185,6 +185,6 @@ indicates something that is no longe accurate or relevant (but should not be del
   Evaluates or check a condition. If the condition evaluates to true, any statements in the subsequent code block are executed 
   
   If else Statement:
-  Checks a condition. If it resolves to true the first code block is executed. If the condition resolves to false the second code block is run instead 
+  Checks a condition. If it resolves to true the first code block is executed. If the condition resolves to false the second code block is run instead.
   
 
