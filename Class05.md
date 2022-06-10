@@ -22,7 +22,7 @@ In my opinion the whole idea of creating an effective web page is to capture the
 3. What should you consider when choosing fonts for an HTML document? **The size of the content on the page and those areas that I would like to highlight or grasp the viewer attention.**
 4. What do font-size, font-weight, and font-style do to HTML text elements? **font-size**giving you the ability to easily scale the font up or down on the entire page accordingly.**font-weight**sets how bold the text is**font-style**Used to turn italic text on or off.
 5. Describe two ways you could add spacing around the characters displayed in an h1 element.**text- align** property, which control how the text is aligned within the containing content box.
-!.**letter-spacing**sets the horizontal spacing behavior between text characters
+1. **letter-spacing**sets the horizontal spacing behavior between text characters
 2. **word-spacing**sets the length of space between words and between tags.
 
   ## Things I want to know more about 
