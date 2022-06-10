@@ -20,10 +20,10 @@ In my opinion the whole idea of creating an effective web page is to capture the
 1. Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.**foreground** this color decides what your brush or pencil color will be which can be used  to attract the viewers eyes **background** is usually white but can be implemented into the color style of the text on your site that enhance the appearance and overall look of the page.
 2. Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character? **I would use the color wheel from adobe which signfy his or her preference to be used for the background in the content of the page and I would also play around with some color in the text to make it more attractive to the eyes.**  
 3. What should you consider when choosing fonts for an HTML document? **The size of the content on the page and those areas that I would like to highlight or grasp the viewer attention.**
-4. What do font-size, font-weight, and font-style do to HTML text elements? **font-size**giving you the ability to easily scale the font up or down on the entire page accordingly.**font-weight**sets how bold the text is**font-style**Used to turn italic text on or off.
+4. What do font-size, font-weight, and font-style do to HTML text elements? **font-size** giving you the ability to easily scale the font up or down on the entire page accordingly.**font-weight** sets how bold the text is**font-style** used to turn italic text on or off.
 5. Describe two ways you could add spacing around the characters displayed in an h1 element.**text- align** property, which control how the text is aligned within the containing content box.
-1. **letter-spacing**sets the horizontal spacing behavior between text characters
-2. **word-spacing**sets the length of space between words and between tags.
+1. **letter-spacing** sets the horizontal spacing behavior between text characters
+2. **word-spacing** sets the length of space between words and between tags.
 
   ## Things I want to know more about 
   1. Proper spacing of text and images
