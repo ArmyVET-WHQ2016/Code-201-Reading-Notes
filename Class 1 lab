@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            
+            <title>Document</title>
+                
+        </head>
+                <body>
+            
+            <main>
+                <h1>Class 1 Lab</h1>
+                <style>
+                    h1 {
+                        color: hotpink;
+                        background-color: aqua;
+                    }
+                </style>
+
+<h2>Wendy's Gist Demo</h2>
+
+<h3>
+    <p>Please rate Wendy's Lab 1 demo effort.Let her know if you were overall impressed or satisfied with her 
+        efforts for this assignment. Provide input via chat if you would like to discuss some things she
+        could improve on.      
+</h3>
+                <style>
+                    h2 {
+                        color: blueviolet;
+                        background-color: blanchedalmond;
+                    }
+                </style>
+    <ol>
+        <li>How would you rate the coding? Between 1 and 10?</li>
+        <li>What score would you give for appearance?</li>
+        <li>How would you rate her effort? Between 1 and 5?</li>
+        <li>What is your overall thoughts for this lab?</li>
+    </ol>
+    
+    <script>
+       let rate = prompt ();
+        console.log("How would you rate the coding? Between 1 ans 10?");
+    </script>
+
+    <script>
+       let appearance = prompt ();
+        console.log("What score would you give for appearance?");
+    </script>
+
+    <script>
+       let effort = prompt ();
+       console.log("How would you rate her effort?Between 1 and 5?");
+    </script>
+
+    <script>
+        let overallThoughts = prompt ('Thank You! I am excited to see your work');
+    </script>
+
+    </main>
+    
+    <footer>
+        <p>&copy; Wendy Hamiltonquinn</p>
+        
+    </footer>
+</body>
+</html>
