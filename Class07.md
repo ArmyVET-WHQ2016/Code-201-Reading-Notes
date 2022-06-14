@@ -16,7 +16,8 @@ Why should tables not be used for page layouts?
 - Tables produce tag soup
 - Tables are not automatically responsive:
 
-List and describe 3 different semantic HTML elements used in an HTML <table>.
+List and describe 3 different semantic HTML elements used in an HTML
+
   - <table></table>
   - <td>
   - <tr>
