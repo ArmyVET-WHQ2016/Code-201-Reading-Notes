@@ -18,9 +18,10 @@ Why should tables not be used for page layouts?
 
 List and describe 3 different semantic HTML elements used in an HTML
 
-  - <table></table>
-  - <td>
-  - <tr>
+<table> creates a table
+<tr> creates a new row
+<td> tags are placed inside <tr> to create individual cells. The number of cells determines the number of columns in the table; if you don't have the same number of cells in each column, make sure to tweak the formatting or you'll have weird gaps in your table.
+<th> denotes a header for a row or column (use in place of <td>)
   
   # Introducing constructors
   
