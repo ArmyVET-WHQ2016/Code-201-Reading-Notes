@@ -1,6 +1,3 @@
-# ***Code 201 Reading Notes***
-
-
 ## Table of Content
 
 [Reading 01:  Introductory HTML and JavaScript](Class01.md)  

@@ -4,9 +4,7 @@ Introductory to HTML and JavaScript
 
 Page Structure and HTML:
 
-It's very important to understand how to structure your page and the information it contains. This allows your viewers to clearly understand the contents in which it entails. The author does this by utilizing what is known as **HTML** (HyperText Markup Language) which allows the author to create links that grants it's viewers to move smoothly from one page to another quicker and easier. 
-**HTML** describes the structure of the web page; when code is added to the words we desire to appear on the page. 
-The **HTML** code is made up of characters that live inside angle brackets known as HTML elements. 
+It's very important to understand how to structure your page and the information it contains. *HTML* does exactly this, it describes the structure of the web page when code is added to the words you desire to appear on the page. As a result allows the viewers to understand the contents in which it entails. The author does this by utilizing what is known as *HTML* (Hyper Text Markup Language) to create links that grants viewers the ability to move smoothly from one page to another 'quicker and easier'. The HTML code is made up of characters that live inside angle brackets known as HTML element
 
 Terms:
 1. ***Elements***- consists of two tags (which information is contained between) *for example*: <>information</>
