@@ -72,7 +72,6 @@ Declaration
 
 Indicate how the elements referred to in the selector should be styled.
 Are split in two parts that sits inside of curly brackets and are separated by a colon.
-A property indicates the aspect of the element you want to change
 A value specify the settings you want to use for the chosen properties
 Using External CSS:
 
