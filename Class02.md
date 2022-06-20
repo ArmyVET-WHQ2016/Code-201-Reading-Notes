@@ -138,7 +138,7 @@ indicates something that is no longe accurate or relevant (but should not be del
   var is an example of what call a keyword used to create a variable 
   
   Using Variable: 
-  - Store numbers  
+  - Store numbers   
   - Store string
   - Store boolean
   
