@@ -25,7 +25,7 @@ contain characters that should be superscript
 use if you want to add a line break inside the middle of a paragraph
 
 -hr
-to create break between themes
+to create break between themes  
 
 Sematic Markup
 
