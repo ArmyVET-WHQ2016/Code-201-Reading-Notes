@@ -38,8 +38,8 @@ The getContext() takes one argument which is the type of context.
 2. How could Chart.js aid your previously created applications visually?
 
 - By making it more intuitive 'spice up your data
-  - - Remove background lines
-Remove default line margins
+-  Remove background lines
+- Remove default line margins
 
 # Drawing shapes with canvas
 
