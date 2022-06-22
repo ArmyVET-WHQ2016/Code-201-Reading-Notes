@@ -92,4 +92,8 @@ is always a reference to the element the event occurred upon.
 
 4. What is the difference between event bubbling and event capturing?
 *bubbling* the browser checks to see if the direct parent of the clicked element has a click event handler registered on it for the bubbling phase, and runs it if so. from the innermost element that was clicked.
+<<<<<<< HEAD
 *capturing* The browser checks to see if
+=======
+*capturing* The browser checks to see if
+>>>>>>> 20028fd989976ce5ab69b2ff478b2fb19b4d50a6
