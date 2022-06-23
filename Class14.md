@@ -1,3 +1,4 @@
+'use strict';
 # Reading
 
 CSS Transforms
@@ -13,7 +14,6 @@ CSS Transforms
 2. How does a CSS animation differ from a CSS transition?
 - Transition for a transition to take place, an element must have a change in state, and different styles must be identified for each state. 
 - Animation is a new CSS property that allows for animation of most HTML elements (such as div, h1 and span) without JavaScript or Flash
-
 
 # 8 simple CSS3 transitions that will wow your users
 
